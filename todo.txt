@@ -1,0 +1,13 @@
+do basic express api call  api/chat
+
+
+store data in firestore
+
+
+establish basic connection
+
+
+front end react
+
+
+activate conversation by id api call, return json
